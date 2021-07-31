@@ -1,4 +1,4 @@
-##304337-Embedded project
+# 304337-Embedded project
 # Embedded-project
 [![Cppcheck](https://github.com/git170060024/Embedded-project/actions/workflows/Codequality.yml/badge.svg)](https://github.com/git170060024/Embedded-project/actions/workflows/Codequality.yml)
 [![Compile-Linux](https://github.com/git170060024/Embedded-project/actions/workflows/Compile.yml/badge.svg)](https://github.com/git170060024/Embedded-project/actions/workflows/Compile.yml)
